@@ -1,0 +1,48 @@
+body {
+    background-color: #92cfbf;
+}
+h1 {
+    text-align: center;
+    color: #e68a7b;
+}
+#Intro {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #a4a643;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#Importimg {
+    display: flex;
+    align-items: center;
+}
+#Importancia-de-la-energia-renovable {
+    margin-right: 5%;
+    width: 40%;
+    border-radius: 25px;
+    margin-left: 5%;
+}
+#Importancia {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #a4a643;
+    border-radius: 25px;
+    width: 40%;
+    padding: 10px;
+    margin-right: 5%;
+}
+h2 {
+    margin-left: 5%;
+}
+#TiposEnergías {
+    margin-left: 5%;
+    li {
+        display: inline;
+        border-style:solid;
+        border-radius: 50px;
+        padding: 10px;
+        margin: 10px
+    }
+}
